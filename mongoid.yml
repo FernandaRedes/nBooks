@@ -1,6 +1,0 @@
-development:
-  clients:
-    default:
-      uri: mongodb+srv://fernandaRedes:pf3MQJpfap2cR8K@cluster0.wjion.mongodb.net/nbooks?retryWrites=true&w=majority
-      options:
-        server_selection_timeout: 5
